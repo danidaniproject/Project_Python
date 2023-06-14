@@ -15,7 +15,7 @@
 ## Файлы в репозитории
 
  - [Парсинг данных с сайта Московской Биржи](https://github.com/sungfala/Project_Python/blob/main/Шаг%201.%20Парсинг.ipynb)
- - [Анализ полученных данных](https://github.com/sungfala/Project_Python/blob/main/Шаг%202.%20Анализ%20полученных%20данных.ipynb))
+ - [Анализ полученных данных](https://github.com/sungfala/Project_Python/blob/main/Шаг%202.%20Анализ%20полученных%20данных.ipynb)
  - [Проверка гипотезы о налоговом периоде](https://github.com/sungfala/Project_Python/blob/main/Шаг%203.%20Гипотеза%20о%20налоговом%20периоде.ipynb)
  - [Линейная регрессия](https://github.com/sungfala/Project_Python/blob/main/Шаг%204.%20Линейная%20регрессия.ipynb)
  - [Поиск аномалий](https://github.com/sungfala/Project_Python/blob/main/Шаг%205.%20Поиск%20аномалий.ipynb)

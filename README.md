@@ -14,9 +14,12 @@
 
 ## Описание файлов в репозитории
 
- - [Гипотезы, проверяемые в ходе проекта](https://github.com/sungfala/Project_Python/blob/main/Гипотезы.ipynb)
- - [Парсинг данных с сайта Московской Биржи](https://github.com/sungfala/Project_Python/blob/main/parsing.ipynb)
- - [Проверка гипотезы о котировках доллара](https://github.com/sungfala/Project_Python/blob/main/Доллар%20и%20налоговый%20период.ipynb)
+ - [Парсинг данных с сайта Московской Биржи](https://github.com/sungfala/Project_Python/blob/main/Шаг%201.%20Парсинг.ipynb)
+ - [Анализ полученных данных](https://github.com/sungfala/Project_Python/blob/main/Анализ%20полученных%20данных.ipynb)
+ - [Проверка гипотезы о налоговом периоде](https://github.com/sungfala/Project_Python/blob/main/Шаг%203.%20Гипотеза%20о%20налоговом%20периоде.ipynb)
+ - [Линейная регрессия](https://github.com/sungfala/Project_Python/blob/main/Шаг%204.%20Линейная%20регрессия.ipynb)
+ - [Поиск аномалий](https://github.com/sungfala/Project_Python/blob/main/Шаг%205.%20Поиск%20аномалий.ipynb)
+ - [Гипотезы о матожидании и доходных днях](https://github.com/sungfala/Project_Python/blob/main/Шаг%206.%20Гипотезы%20о%20матожидании%20и%20доходных%20днях.ipynb)
 
 
 ## Идеология проекта
